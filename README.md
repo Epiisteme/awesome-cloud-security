@@ -1,6 +1,9 @@
 # awesome-cloud-security
 Awesome Archives on Cloud Security
 
+### Cloud Security Checklist
+- https://www.pcidssguide.com/cloud-security-checklist/
+
 ### AWS Security
 - https://github.com/Netflix/security_monkey
 - https://github.com/awslabs/aws-security-benchmark
@@ -9,5 +12,6 @@ Awesome Archives on Cloud Security
 - https://github.com/toniblyx/my-arsenal-of-aws-security-tools
 - https://www.ibexlabs.com/security-information-event-management-siem-in-aws/
 - https://aws.amazon.com/blogs/security/getting-started-follow-security-best-practices-as-you-configure-your-aws-resources/
+- https://searchcloudcomputing.techtarget.com/feature/12-AWS-security-tools-to-protect-your-environment-and-accounts
 
 ### Azure Security
