@@ -7,6 +7,9 @@ Awesome Archives on Cloud Security
 ### Cloud Security Risks
 - https://kinsta.com/blog/cloud-security/
 
+### Cloud Security Best Practices
+- https://www.mcafee.com/enterprise/en-in/security-awareness/cloud/cloud-security-best-practices.html
+
 ### AWS Security
 - https://github.com/Netflix/security_monkey
 - https://github.com/awslabs/aws-security-benchmark
