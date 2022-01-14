@@ -1,8 +1,11 @@
 # awesome-cloud-security
 Awesome Archives on Cloud Security
 
-### Cloud Security Checklist
+### Cloud Security Assessment
 - https://www.pcidssguide.com/cloud-security-checklist/
+
+### Cloud Security Risks
+- https://kinsta.com/blog/cloud-security/
 
 ### AWS Security
 - https://github.com/Netflix/security_monkey
