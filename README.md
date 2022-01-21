@@ -22,3 +22,6 @@ Awesome Archives on Cloud Security
 - https://www.missioncloud.com/blog/the-top-10-security-tools-for-your-aws-environment
 - https://searchcloudcomputing.techtarget.com/feature/12-AWS-security-tools-to-protect-your-environment-and-accounts
 - https://aws.amazon.com/blogs/security/getting-started-follow-security-best-practices-as-you-configure-your-aws-resources/
+
+### Cloud API Security
+- https://habr.com/en/post/595075/
