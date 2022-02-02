@@ -11,6 +11,9 @@ Awesome Archives on Cloud Security
 - https://www.mcafee.com/enterprise/en-in/security-awareness/cloud/cloud-security-best-practices.html
 - https://www.rishabhsoft.com/blog/cloud-application-security-best-practices
 
+### AWS Key Management Services
+- https://www.fugue.co/blog/2015-04-21-aws-kms-secrets.html
+
 ### AWS Security
 - https://github.com/Netflix/security_monkey
 - https://github.com/awslabs/aws-security-benchmark
