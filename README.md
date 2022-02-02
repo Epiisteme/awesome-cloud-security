@@ -13,6 +13,7 @@ Awesome Archives on Cloud Security
 
 ### AWS Key Management Services
 - https://www.fugue.co/blog/2015-04-21-aws-kms-secrets.html
+- https://treehozz.com/what-is-the-maximum-data-size-supported-by-aws-kms
 - https://luhenning.medium.com/the-dark-side-of-the-elliptic-curve-signing-ethereum-transactions-with-aws-kms-in-javascript-83610d9a6f81
 
 ### AWS Security
